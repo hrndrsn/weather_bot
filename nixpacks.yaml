@@ -1,2 +1,2 @@
 start:
-  command: python iot.py
+  command: python weather_bot.py
